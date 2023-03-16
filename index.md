@@ -18,9 +18,10 @@ and
 
 # News
 
-- [2023.2.27] **One** paper is accepted for **CVPR 2023**
-- [2022.9.15] **One** paper is accepted for **NeurIPS 2022**
-- [2022.7.09] **One** paper is accepted for **ECCV 2022**
+- [2023.2.27] **One** paper is accepted at **CVPR 2023**
+- [2022.9.15] **One** paper is accepted at **NeurIPS 2022**
+- [2022.7.09] **One** paper is accepted at **ECCV 2022**
+- [2020.3.06] **One** paper is accepted at **ICME 2020**
 
 # Publication
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font>
