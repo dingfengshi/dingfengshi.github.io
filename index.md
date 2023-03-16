@@ -4,14 +4,16 @@ layout: about
 
 # About Me
 
-I am a PhD student at State Key Laboratory of Virtual Reality Technology and Systems, Beihang University. My research
-interest lies in the fild of computer vision, video understanding and detection. Currently I am a member
-of [CVTEAM](https://cvteam.buaa.edu.cn/). [[Google Scholar]](https://scholar.google.com/citations?user=e8bIW37RkFkC&hl=zh-CN&oi=ao) 
+I am a PhD student at State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, with a research
+interest in computer vision, video understanding, and detection. Currently I am a member
+of 
+<a href="https://cvteam.buaa.edu.cn/"><font color=blue>CVTEAM</font></a>, and my Google Scholar profile at <a href="https://scholar.google.com/citations?user=e8bIW37RkFkC&hl=zh-CN&oi=ao"><font color=blue>[Google Scholar]</font></a>
 
-I am a research intern now at JD Explore Academy
-working [Qiong Cao](https://scholar.google.co.uk/citations?user=JYtbNBsAAAAJ&hl=en)
-, [Yujie Zhong](https://y-zhong.info/)
-and [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN).
+I am currently working as a research intern now at JD Explore Academy with
+<a href="https://scholar.google.co.uk/citations?user=JYtbNBsAAAAJ&hl=en"><font color=blue>Qiong Cao</font></a>,
+<a href="https://y-zhong.info/"><font color=blue>Yujie Zhong</font></a>
+and
+<a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN"><font color=blue>Dacheng Tao</font></a>.
 <br/>
 
 # News
