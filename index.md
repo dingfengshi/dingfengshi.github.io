@@ -10,7 +10,7 @@ of
 <a href="https://cvteam.buaa.edu.cn/"><font color=blue>CVTEAM</font></a>, and my Google Scholar profile at <a href="https://scholar.google.com/citations?user=e8bIW37RkFkC&hl=zh-CN&oi=ao"><font color=blue>[Google Scholar]</font></a>
 
 I am currently working as a research intern now at JD Explore Academy with
-<a href="https://scholar.google.co.uk/citations?user=JYtbNBsAAAAJ&hl=en"><font color=blue>Qiong Cao</font></a>,
+<a href="https://qiongcao.github.io/"><font color=blue>Qiong Cao</font></a>,
 <a href="https://y-zhong.info/"><font color=blue>Yujie Zhong</font></a>
 and
 <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN"><font color=blue>Dacheng Tao</font></a>.
