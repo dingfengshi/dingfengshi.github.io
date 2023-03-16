@@ -9,7 +9,7 @@ interest in computer vision, video understanding, and detection. Currently I am 
 of 
 <a href="https://cvteam.buaa.edu.cn/"><font color=blue>CVTEAM</font></a>.
 
-I am currently working as a research intern now at JD Explore Academy with
+I am currently working as a research intern at JD Explore Academy with
 <a href="https://qiongcao.github.io/"><font color=blue>Qiong Cao</font></a>,
 <a href="https://y-zhong.info/"><font color=blue>Yujie Zhong</font></a>
 and
