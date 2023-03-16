@@ -1,26 +1,77 @@
 ---
-layout: about 
+layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
 
+I am a PhD student at State Key Laboratory of Virtual Reality Technology and Systems, Beihang University. My research
+interest lies in the fild of computer vision, video understanding and detection. Currently I am a member
+of [CVTEAM](https://cvteam.buaa.edu.cn/). [[Google Scholar]](https://scholar.google.com/citations?user=e8bIW37RkFkC&hl=zh-CN&oi=ao) 
+
+I am a research intern now at JD Explore Academy
+working [Qiong Cao](https://scholar.google.co.uk/citations?user=JYtbNBsAAAAJ&hl=en)
+, [Yujie Zhong](https://y-zhong.info/)
+and [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN).
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# News
 
+- [2023.2.27] **One** paper is accepted for **CVPR 2023**
+- [2022.9.15] **One** paper is accepted for **NeurIPS 2022**
+- [2022.7.09] **One** paper is accepted for **ECCV 2022**
+
+# Publication
+<font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font>
+
+_**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
+
+<div>
+<b>
+<font color=CC6600 size=2>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. </font>
+<a href="https://arxiv.org/abs/2303.07347"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/dingfengshi/TriDet"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+
+---
+<font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font>
+
+_Tian Qin, Fengxiang He, **Dingfeng Shi**, Wenbing Huang, Dacheng Tao_
+
+
+<div>
+<b>
+<font color=CC6600 size=2>Neural Information Processing Systems (NeurIPS), 2022. </font>
+<a href="https://arxiv.org/abs/2210.05579"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/dingfengshi/Auction_PE"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+
+---
+<font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font>
+
+_**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dacheng Tao_
+
+<div>
+<b>
+<font color=CC6600 size=2>European Conference on Computer Vision (ECCV), 2022. </font>
+<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700102.pdf"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/dingfengshi/React"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+
+---
+<font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font>
+
+_**Dingfeng Shi**, Yifan Zhao, Jia Li_
+
+<div>
+<b>
+<font color=CC6600 size=2>IEEE International Conference on Multimedia and Expo (ICME), 2020. </font>
+<a href="http://cvteam.net/projects/2020/ICME/ICME2020_files/ICME2020-paper.pdf"><font color=blue size=2>[PDF]</font></a>
+</b>
+</div>
+
+---
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
