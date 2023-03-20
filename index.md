@@ -30,7 +30,7 @@ and
 - [2022.7.09] **One** paper is accepted at **ECCV 2022**
 - [2020.3.06] **One** paper is accepted at **ICME 2020**
 
-# Publication
+# Publications
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font>
 
 _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
