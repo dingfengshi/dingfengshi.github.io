@@ -4,9 +4,10 @@ layout: about
 
 # About Me
 
-I am a PhD student at State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, with a research
+I am a PhD student at State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, with a
+research
 interest in computer vision, video understanding, and detection. Currently I am a member
-of 
+of
 <a href="https://cvteam.buaa.edu.cn/"><font color=blue>CVTEAM</font></a>.
 
 I am currently working as a research intern at JD Explore Academy with
@@ -25,12 +26,15 @@ and
 
 # News
 
-- [2023.2.27] **One** paper is accepted at **CVPR 2023**
-- [2022.9.15] **One** paper is accepted at **NeurIPS 2022**
-- [2022.7.09] **One** paper is accepted at **ECCV 2022**
-- [2020.3.06] **One** paper is accepted at **ICME 2020**
+- [2023.04.04] I was invited to share my work by Extreme Mart on April
+  6th [[Link]](https://mp.weixin.qq.com/s/jYqhOpkbjT-j3D7VwIHi-Q)
+- [2023.02.27] **One** paper is accepted at **CVPR 2023**
+- [2022.09.15] **One** paper is accepted at **NeurIPS 2022**
+- [2022.07.09] **One** paper is accepted at **ECCV 2022**
+- [2020.03.06] **One** paper is accepted at **ICME 2020**
 
 # Publications
+
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font>
 
 _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
