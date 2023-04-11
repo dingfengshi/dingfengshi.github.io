@@ -117,8 +117,6 @@ _**Dingfeng Shi**, Yifan Zhao, Jia Li_
 </div>
 
 </td>
-
----
 <br/>
 
 </tbody>
