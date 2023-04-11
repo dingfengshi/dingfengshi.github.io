@@ -34,7 +34,7 @@ and
 - [2020.03.06] **One** paper is accepted at **ICME 2020**
 
 # Publications
-<table width="100" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
+<table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
 
 <tr>
