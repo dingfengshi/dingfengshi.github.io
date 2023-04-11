@@ -74,7 +74,7 @@ and
 </tr>
 
 <tr>
-<td width="25%" valign="middle"> 
+<td width="25%" valign="middle">
 <img src="files/ReAct.png">
 </td>
 <td width="75%" valign="middle">
