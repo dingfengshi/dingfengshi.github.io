@@ -58,8 +58,6 @@ _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
 </td>
 <tr>
 
-[//]: # (###############################################)
-
 <tr>
 <td width="25%">
 <img src="files/pbe.png" width="200">
@@ -81,9 +79,6 @@ _Tian Qin, Fengxiang He, **Dingfeng Shi**, Wenbing Huang, Dacheng Tao_
 </td>
 </tr>
 
-
-[//]: # (###############################################)
-
 <tr>
 <td width="25%">
 <img src="files/ReAct.png" width="200">
@@ -103,8 +98,6 @@ _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dach
 </div>
 </td>
 
-
-[//]: # (###############################################)
 
 <tr>
 <td width="25%">
