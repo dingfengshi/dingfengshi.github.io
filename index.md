@@ -36,17 +36,14 @@ and
 # Publications
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
-
 <tr>
 <td width="25%">
 <img src="files/Tridet.png" width="200">
 </td>
 <td width="75%" valign="middle">
 <div>
-<font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font>
-
+<font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font><br/>
 <i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao</i>
-
 <div>
 <b>
 <font color=CC6600 size=2>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. </font><br/>
@@ -62,13 +59,9 @@ and
 <td width="25%">
 <img src="files/pbe.png" width="200">
 </td>
-
 <td width="75%" valign="middle">
-<font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font>
-
+<font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font><br/>
 <i>Tian Qin, Fengxiang He, <b>Dingfeng Shi</b>, Wenbing Huang, Dacheng Tao</i>
-
-
 <div>
 <b>
 <font color=CC6600 size=2>Neural Information Processing Systems (NeurIPS), 2022. </font><br>
@@ -84,11 +77,8 @@ and
 <img src="files/ReAct.png" width="200">
 </td>
 <td width="75%" valign="middle">
-
-<font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font>
-
+<font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font><br/>
 <i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dacheng Tao</i>
-
 <div>
 <b>
 <font color=CC6600 size=2>European Conference on Computer Vision (ECCV), 2022. </font><br/>
@@ -103,7 +93,6 @@ and
 <img src="files/recon.png" width="200">
 </td>
 <td width="75%" valign="middle">
-
 <font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font><br>
 <i><b>Dingfeng Shi</b>, Yifan Zhao, Jia Li</i>
 <div>
@@ -113,7 +102,6 @@ and
 </b>
 </div>
 </td>
-
 <br/>
 </tbody>
 </table>
