@@ -38,10 +38,10 @@ and
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
 <tr>
-<td width="25%">
+<td width="20%" valign="middle">
 <img src="files/Tridet.png">
 </td>
-<td width="75%" valign="middle">
+<td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font><br/>
 <i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao</i>
@@ -57,10 +57,10 @@ and
 <tr>
 
 <tr>
-<td width="25%" valign="middle">
+<td width="20%" valign="middle" >
 <img src="files/pbe.png">
 </td>
-<td width="75%" valign="middle">
+<td width="80%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font><br/>
 <i>Tian Qin, Fengxiang He, <b>Dingfeng Shi</b>, Wenbing Huang, Dacheng Tao</i>
 <div>
@@ -74,10 +74,10 @@ and
 </tr>
 
 <tr>
-<td width="25%" valign="middle">
+<td width="20%" valign="middle" >
 <img src="files/ReAct.png">
 </td>
-<td width="75%" valign="middle">
+<td width="80%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font><br/>
 <i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dacheng Tao</i>
 <div>
@@ -90,10 +90,10 @@ and
 </td>
 
 <tr>
-<td width="25%" valign="middle">
+<td width="20%" valign="middle" >
 <img src="files/recon.png">
 </td>
-<td width="75%" valign="middle">
+<td width="80%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font><br>
 <i><b>Dingfeng Shi</b>, Yifan Zhao, Jia Li</i>
 <div>
