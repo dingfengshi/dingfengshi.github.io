@@ -38,7 +38,7 @@ and
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
 <tr>
-<td width="20%" valign="middle">
+<td width="20%" valign="baseline">
 <img src="files/Tridet.png">
 </td>
 <td width="80%" valign="middle">
@@ -57,7 +57,7 @@ and
 <tr>
 
 <tr>
-<td width="20%" valign="middle" >
+<td width="20%" valign="baseline">
 <img src="files/pbe.png">
 </td>
 <td width="80%" valign="middle">
@@ -74,7 +74,7 @@ and
 </tr>
 
 <tr>
-<td width="20%" valign="middle" >
+<td width="20%" valign="baseline">
 <img src="files/ReAct.png">
 </td>
 <td width="80%" valign="middle">
@@ -90,7 +90,7 @@ and
 </td>
 
 <tr>
-<td width="20%" valign="middle" >
+<td width="20%" valign="baseline">
 <img src="files/recon.png">
 </td>
 <td width="80%" valign="middle">
