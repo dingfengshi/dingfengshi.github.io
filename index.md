@@ -27,14 +27,22 @@ and
 # News
 
 - [2023.04.04] I was invited to share my work by Extreme Mart on April
-  6th [[Link]](https://mp.weixin.qq.com/s/jYqhOpkbjT-j3D7VwIHi-Q)
+  6th
 - [2023.02.27] **One** paper is accepted at **CVPR 2023**
 - [2022.09.15] **One** paper is accepted at **NeurIPS 2022**
 - [2022.07.09] **One** paper is accepted at **ECCV 2022**
 - [2020.03.06] **One** paper is accepted at **ICME 2020**
 
 # Publications
+<table width="100" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
+<tbody>
 
+<tr>
+<td width="25%">
+<img src="files/Tridet.png" width="200">
+</td>
+<td width="75%" valign="middle">
+<div>
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font>
 
 _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
@@ -46,8 +54,18 @@ _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
 <a href="https://github.com/dingfengshi/TriDet"><font color=blue size=2>[CODE]</font></a>
 </b>
 </div>
+</div>
+</td>
+<tr>
 
----
+[//]: # (###############################################)
+
+<tr>
+<td width="25%">
+<img src="files/pbe.png" width="200">
+</td>
+
+<td width="75%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font>
 
 _Tian Qin, Fengxiang He, **Dingfeng Shi**, Wenbing Huang, Dacheng Tao_
@@ -60,8 +78,18 @@ _Tian Qin, Fengxiang He, **Dingfeng Shi**, Wenbing Huang, Dacheng Tao_
 <a href="https://github.com/dingfengshi/Auction_PE"><font color=blue size=2>[CODE]</font></a>
 </b>
 </div>
+</td>
+</tr>
 
----
+
+[//]: # (###############################################)
+
+<tr>
+<td width="25%">
+<img src="files/ReAct.png" width="200">
+</td>
+<td width="75%" valign="middle">
+
 <font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font>
 
 _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dacheng Tao_
@@ -73,8 +101,17 @@ _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dach
 <a href="https://github.com/dingfengshi/React"><font color=blue size=2>[CODE]</font></a>
 </b>
 </div>
+</td>
 
----
+
+[//]: # (###############################################)
+
+<tr>
+<td width="25%">
+<img src="files/recon.png" width="200">
+</td>
+<td width="75%" valign="middle">
+
 <font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font>
 
 _**Dingfeng Shi**, Yifan Zhao, Jia Li_
@@ -86,6 +123,11 @@ _**Dingfeng Shi**, Yifan Zhao, Jia Li_
 </b>
 </div>
 
+</td>
+
 ---
 <br/>
+
+</tbody>
+</table>
 
