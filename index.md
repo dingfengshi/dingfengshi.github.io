@@ -45,11 +45,11 @@ and
 <div>
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font>
 
-_**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
+<i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao</i>
 
 <div>
 <b>
-<font color=CC6600 size=2>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. </font>
+<font color=CC6600 size=2>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. </font><br/>
 <a href="https://arxiv.org/abs/2303.07347"><font color=blue size=2>[PDF]</font></a>
 <a href="https://github.com/dingfengshi/TriDet"><font color=blue size=2>[CODE]</font></a>
 </b>
@@ -66,12 +66,12 @@ _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao_
 <td width="75%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font>
 
-_Tian Qin, Fengxiang He, **Dingfeng Shi**, Wenbing Huang, Dacheng Tao_
+<i>Tian Qin, Fengxiang He, <b>Dingfeng Shi</b>, Wenbing Huang, Dacheng Tao</i>
 
 
 <div>
 <b>
-<font color=CC6600 size=2>Neural Information Processing Systems (NeurIPS), 2022. </font>
+<font color=CC6600 size=2>Neural Information Processing Systems (NeurIPS), 2022. </font><br>
 <a href="https://arxiv.org/abs/2210.05579"><font color=blue size=2>[PDF]</font></a>
 <a href="https://github.com/dingfengshi/Auction_PE"><font color=blue size=2>[CODE]</font></a>
 </b>
@@ -87,17 +87,16 @@ _Tian Qin, Fengxiang He, **Dingfeng Shi**, Wenbing Huang, Dacheng Tao_
 
 <font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font>
 
-_**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dacheng Tao_
+<i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dacheng Tao</i>
 
 <div>
 <b>
-<font color=CC6600 size=2>European Conference on Computer Vision (ECCV), 2022. </font>
+<font color=CC6600 size=2>European Conference on Computer Vision (ECCV), 2022. </font><br/>
 <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700102.pdf"><font color=blue size=2>[PDF]</font></a>
 <a href="https://github.com/dingfengshi/React"><font color=blue size=2>[CODE]</font></a>
 </b>
 </div>
 </td>
-
 
 <tr>
 <td width="25%">
@@ -105,20 +104,17 @@ _**Dingfeng Shi**, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dach
 </td>
 <td width="75%" valign="middle">
 
-<font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font>
-
-_**Dingfeng Shi**, Yifan Zhao, Jia Li_
-
+<font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font><br>
+<i><b>Dingfeng Shi</b>, Yifan Zhao, Jia Li</i>
 <div>
 <b>
-<font color=CC6600 size=2>IEEE International Conference on Multimedia and Expo (ICME), 2020. </font>
+<font color=CC6600 size=2>IEEE International Conference on Multimedia and Expo (ICME), 2020. </font><br/>
 <a href="http://cvteam.net/projects/2020/ICME/ICME2020_files/ICME2020-paper.pdf"><font color=blue size=2>[PDF]</font></a>
 </b>
 </div>
-
 </td>
-<br/>
 
+<br/>
 </tbody>
 </table>
 
