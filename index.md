@@ -34,11 +34,12 @@ and
 - [2020.03.06] **One** paper is accepted at **ICME 2020**
 
 # Publications
+
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
 <tr>
 <td width="25%">
-<img src="files/Tridet.png" width="200">
+<img src="files/Tridet.png">
 </td>
 <td width="75%" valign="middle">
 <div>
@@ -56,8 +57,8 @@ and
 <tr>
 
 <tr>
-<td width="25%">
-<img src="files/pbe.png" width="200">
+<td width="25%" valign="middle">
+<img src="files/pbe.png">
 </td>
 <td width="75%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font><br/>
@@ -73,8 +74,8 @@ and
 </tr>
 
 <tr>
-<td width="25%">
-<img src="files/ReAct.png" width="200">
+<td width="25%" valign="middle">
+<img src="files/ReAct.png">
 </td>
 <td width="75%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font><br/>
@@ -89,8 +90,8 @@ and
 </td>
 
 <tr>
-<td width="25%">
-<img src="files/recon.png" width="200">
+<td width="25%" valign="middle">
+<img src="files/recon.png">
 </td>
 <td width="75%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font><br>
@@ -102,7 +103,5 @@ and
 </b>
 </div>
 </td>
-<br/>
-</tbody>
-</table>
+</tbody></table>
 
