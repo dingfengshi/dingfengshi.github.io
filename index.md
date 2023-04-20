@@ -26,8 +26,6 @@ and
 
 # News
 
-- [2023.04.04] I was invited to share my work by Extreme Mart on April
-  6th
 - [2023.02.27] **One** paper is accepted at **CVPR 2023**
 - [2022.09.15] **One** paper is accepted at **NeurIPS 2022**
 - [2022.07.09] **One** paper is accepted at **ECCV 2022**
