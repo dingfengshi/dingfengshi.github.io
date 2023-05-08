@@ -6,9 +6,7 @@ layout: about
 
 I am a PhD student at State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, with a
 research
-interest in computer vision, video understanding, and detection. Currently I am a member
-of
-<a href="https://cvteam.buaa.edu.cn/"><font color=blue>CVTEAM</font></a>.
+interest in computer vision, video understanding, and detection. 
 
 I am currently working as a research intern at JD Explore Academy with
 <a href="https://qiongcao.github.io/"><font color=blue>Qiong Cao</font></a>,
