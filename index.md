@@ -40,7 +40,7 @@ and
 <td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font><br/>
-<i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Lin Ma, Jia Li*, Dacheng Tao</i>
+<i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao, Lin Ma, Jia Li, Dacheng Tao</i>
 <div>
 <b>
 <font color=CC6600 size=2>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. </font><br/>
@@ -75,7 +75,7 @@ and
 </td>
 <td width="80%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font><br/>
-<i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao*, Jing Zhang, Lin Ma, Jia Li* and Dacheng Tao</i>
+<i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao, Jing Zhang, Lin Ma, Jia Li and Dacheng Tao</i>
 <div>
 <b>
 <font color=CC6600 size=2>European Conference on Computer Vision (ECCV), 2022. </font><br/>
