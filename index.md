@@ -46,8 +46,6 @@ and
 <b>
 <font color=CC6600 size=2>Arxiv, 2023. </font><br/>
 <a href="https://arxiv.org/abs/2309.05590"><font color=blue size=2>[PDF]</font></a>
-
-[//]: # (<a href="https://github.com/dingfengshi/TriDet"><font color=blue size=2>[CODE]</font></a>)
 </b>
 </div>
 </div>
