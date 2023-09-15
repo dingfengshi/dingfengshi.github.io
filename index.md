@@ -33,6 +33,27 @@ and
 
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
+
+<tr>
+<td width="20%" valign="baseline">
+<img src="files/triplus.png">
+</td>
+<td width="80%" valign="middle">
+<div>
+<font color=Black size=4 face="Georgia"><b>Temporal Action Localization with Enhanced Instant Discriminability</b></font><br/>
+<i><b>Dingfeng Shi</b>, Qiong Cao, Yujie Zhong, Shan An, Jian Cheng, Haogang Zhu, Dacheng Tao</i>
+<div>
+<b>
+<font color=CC6600 size=2>Arxiv, 2023. </font><br/>
+<a href="https://arxiv.org/abs/2309.05590"><font color=blue size=2>[PDF]</font></a>
+
+[//]: # (<a href="https://github.com/dingfengshi/TriDet"><font color=blue size=2>[CODE]</font></a>)
+</b>
+</div>
+</div>
+</td>
+<tr>
+
 <tr>
 <td width="20%" valign="baseline">
 <img src="files/Tridet.png">
