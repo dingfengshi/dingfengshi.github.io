@@ -4,9 +4,7 @@ layout: about
 
 # About Me
 
-I am a PhD student at State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, with a
-research
-interest in computer vision, video understanding, and detection. 
+I am a PhD student at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University. I am being supervised by Prof. <a href="https://ieeexplore.ieee.org/author/37086553313"><font color=blue>Haogang Zhu</font></a> and Prof. <a href="https://jian-cheng.org/"><font color=blue>Jian Cheng</font></a>. My research interests include computer vision, video understanding, and detection. Prior to this, I obtained my Bachelor's degree from Xidian University in 2019.
 
 I am currently working as a research intern at JD Explore Academy with
 <a href="https://qiongcao.github.io/"><font color=blue>Qiong Cao</font></a>,
