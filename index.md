@@ -129,4 +129,4 @@ I am currently working as a research intern at JD Explore Academy.
 </div>
 
 # Academic Services
-I serve as a reviewer for TPAMI, CVPR, ICCV, ECCV, NeurIPS and TCSVT.
+I serve as a reviewer for TPAMI, CVPR, ICCV, ECCV, NeurIPS, AAAI, TMM and TCSVT.
