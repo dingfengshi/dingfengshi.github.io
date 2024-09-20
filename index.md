@@ -129,4 +129,4 @@ I am currently working as a research intern at JD Explore Academy.
 </div>
 
 # Academic Services
-I serve as a reviewer for journals such as TPAMI, TIP, TMM, and TCSVT, as well as conferences like CVPR, ICCV, ECCV, NeurIPS, and AAAI.
+I serve as a reviewer for journals such as TPAMI, TIP, TMM, TCSVT and PR, as well as conferences like CVPR, ICCV, ECCV, NeurIPS, and AAAI.
