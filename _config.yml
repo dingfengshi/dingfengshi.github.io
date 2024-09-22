@@ -7,7 +7,7 @@ google_analytics: G-GPKWZC2YS8 # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Dingfeng Shi （石鼎丰）
-  desc: Computer vision, video understanding and detection.
+  desc: Computer vision, video understanding, large language model (LLM) and detection.
   email: shidingfeng@buaa.edu.cn
   selfie: assets/img/profile.jpg
 
