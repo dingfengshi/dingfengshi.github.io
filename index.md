@@ -39,7 +39,7 @@ My research focuses on computer vision, video understanding, object detection, a
 <td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>TaskCraft: Automated Generation of Agentic Tasks</b></font><br/>
-<i><b>Dingfeng Shi</b>, Jingyi Cao, Qianben Chen, Weichen Sun, Weizhen Li, Hongxuan Lu, Fangchen Dong, Tianrui Qin, King Zhu, Minghao Yang, Jian Yang, Ge Zhang, Jiaheng Liu, Changwang Zhang, Jun Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
+<i><b>Dingfeng Shi*</b>, Jingyi Cao*, Qianben Chen*, Weichen Sun, Weizhen Li, Hongxuan Lu, Fangchen Dong, Tianrui Qin, King Zhu, Minghao Yang, Jian Yang, Ge Zhang, Jiaheng Liu, Changwang Zhang, Jun Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
 <div>
 <b>
 <font color=CC6600 size=2>Arxiv, 2025. </font><br/>
