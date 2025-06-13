@@ -3,19 +3,13 @@ layout: about
 ---
 
 # About Me
+I am currently a researcher at OPPO Personal AI Lab, specializing in LLM agent research and its practical applications.
+I earned my PhD from Beihang University, under the mentorship of <a href="https://ieeexplore.ieee.org/author/37086553313"><font color=blue>Haogang Zhu</font></a> and <a href="https://jian-cheng.org/"><font color=blue>Jian Cheng</font></a>. 
+Before that, I completed my Bachelor's degree at Xidian University in 2019.
+Additionally, I spent approximately three years at JD Explore Academy, collaborating with <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en"><font color=blue>Dacheng Tao</font></a>, <a href="https://scholar.google.com/citations?user=JYtbNBsAAAAJ&hl=en"><font color=blue>Qiong Cao</font></a>, and <a href="https://scholar.google.com/citations?user=9rY7WqAAAAAJ&hl=zh-CN"><font color=blue>Yujie Zhong</font></a>.
 
-I am a PhD student at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University. I am being supervised by Prof. <a href="https://ieeexplore.ieee.org/author/37086553313"><font color=blue>Haogang Zhu</font></a> and Prof. <a href="https://jian-cheng.org/"><font color=blue>Jian Cheng</font></a>. My research interests include computer vision, video understanding, detection and large language model (LLM). Prior to this, I obtained my Bachelor's degree from Xidian University in 2019.
-I am currently working as a research intern at JD Explore Academy.
+My research focuses on computer vision, video understanding, object detection, and large language models (LLMs).
 
-[//]: # (with)
-
-[//]: # (<a href="https://qiongcao.github.io/"><font color=blue>Qiong Cao</font></a>,)
-
-[//]: # (<a href="https://y-zhong.info/"><font color=blue>Yujie Zhong</font></a>)
-
-[//]: # (and)
-
-[//]: # (<a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN"><font color=blue>Dacheng Tao</font></a>.)
 
 <div text-align="center">
 <center>
@@ -37,6 +31,25 @@ I am currently working as a research intern at JD Explore Academy.
 <div>
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
+
+<tr>
+<td width="20%" valign="baseline">
+<img src="https://arxiv.org/html/2506.10055v1/x3.png">
+</td>
+<td width="80%" valign="middle">
+<div>
+<font color=Black size=4 face="Georgia"><b>TaskCraft: Automated Generation of Agentic Tasks</b></font><br/>
+<i><b>Dingfeng Shi</b>, Jingyi Cao, Qianben Chen, Weichen Sun, Weizhen Li, Hongxuan Lu, Fangchen Dong, Tianrui Qin, King Zhu, Minghao Yang, Jian Yang, Ge Zhang, Jiaheng Liu, Changwang Zhang, Jun Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
+<div>
+<b>
+<font color=CC6600 size=2>Arxiv, 2025. </font><br/>
+<a href="https://arxiv.org/abs/2506.10055"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/OPPO-PersonalAI/TaskCraft"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+</div>
+</td>
+</tr>
 
 <tr>
 <td width="20%" valign="baseline">
