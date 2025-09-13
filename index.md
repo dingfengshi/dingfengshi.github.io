@@ -5,10 +5,9 @@ layout: about
 # About Me
 I am currently a researcher at OPPO Personal AI Lab, specializing in LLM agent research and its practical applications.
 I earned my PhD from Beihang University, under the mentorship of <a href="https://ieeexplore.ieee.org/author/37086553313"><font color=blue>Haogang Zhu</font></a> and <a href="https://jian-cheng.org/"><font color=blue>Jian Cheng</font></a>. 
-Before that, I completed my Bachelor's degree at Xidian University in 2019.
-Additionally, I spent approximately three years at JD Explore Academy, collaborating with <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en"><font color=blue>Dacheng Tao</font></a>, <a href="https://scholar.google.com/citations?user=JYtbNBsAAAAJ&hl=en"><font color=blue>Qiong Cao</font></a>, and <a href="https://scholar.google.com/citations?user=9rY7WqAAAAAJ&hl=zh-CN"><font color=blue>Yujie Zhong</font></a>.
+Before that, I interned at JD Explore Academy, collaborating with <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en"><font color=blue>Dacheng Tao</font></a>, <a href="https://scholar.google.com/citations?user=JYtbNBsAAAAJ&hl=en"><font color=blue>Qiong Cao</font></a>, and <a href="https://scholar.google.com/citations?user=9rY7WqAAAAAJ&hl=zh-CN"><font color=blue>Yujie Zhong</font></a>.
 
-My research focuses on computer vision, video understanding, object detection, and large language models (LLMs).
+My research focuses on large language models (LLMs), computer vision and video understanding.
 
 
 <div text-align="center">
