@@ -14,12 +14,12 @@ My research focuses on large language models (LLMs), computer vision and video u
 <center>
  <a href="https://scholar.google.com/citations?user=e8bIW37RkFkC&hl=zh-CN&oi=ao"><font color=blue size=3>[Google Scholar]</font></a>, 
  <a href="https://github.com/dingfengshi"><font color=blue>[Github]</font></a>, 
- <a href="mailto:shidingfeng@buaa.edu.cn"><font color=blue>[Email]</font></a>.
+ <a href="mailto:shidingfeng@outlook.com"><font color=blue>[Email]</font></a>.
 </center>
 </div>
 
 # News
-
+- [2026.01.27] **Four** paper is accepted at **ICLR 2026**
 - [2023.02.27] **One** paper is accepted at **CVPR 2023**
 - [2022.09.15] **One** paper is accepted at **NeurIPS 2022**
 - [2022.07.09] **One** paper is accepted at **ECCV 2022**
@@ -27,22 +27,19 @@ My research focuses on large language models (LLMs), computer vision and video u
 
 # Publications
 
-<div>
+<td>
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
 
 <tr>
-<td width="20%" valign="baseline">
-<img src="https://arxiv.org/html/2506.10055v1/x3.png">
-</td>
 <td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>TaskCraft: Automated Generation of Agentic Tasks</b></font><br/>
 <i><b>Dingfeng Shi*</b>, Jingyi Cao*, Qianben Chen*, Weichen Sun, Weizhen Li, Hongxuan Lu, Fangchen Dong, Tianrui Qin, King Zhu, Minghao Yang, Jian Yang, Ge Zhang, Jiaheng Liu, Changwang Zhang, Jun Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
 <div>
 <b>
-<font color=CC6600 size=2>Arxiv, 2025. </font><br/>
-<a href="https://arxiv.org/abs/2506.10055"><font color=blue size=2>[PDF]</font></a>
+<font color=CC6600 size=2>International Conference on Learning Representations (ICLR), 2026. </font><br/>
+<a href="https://openreview.net/forum?id=UJFCyrYM1V"><font color=blue size=2>[PDF]</font></a>
 <a href="https://github.com/OPPO-PersonalAI/TaskCraft"><font color=blue size=2>[CODE]</font></a>
 </b>
 </div>
@@ -51,9 +48,70 @@ My research focuses on large language models (LLMs), computer vision and video u
 </tr>
 
 <tr>
-<td width="20%" valign="baseline">
-<img src="files/triplus.png">
+<td width="80%" valign="middle">
+<div>
+<font color=Black size=4 face="Georgia"><b>A<sup>2</sup>FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning</b></font><br/>
+<i>Qianben Chen, Jingyi Cao, Jiayu Zhang, Tianrui Qin, LiXiaowan, King Zhu, <b>Dingfeng Shi</b>, He Zhu, Minghao Liu, Xiaobo Liang, Ge Zhang, Jian Yang, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
+<div>
+<b>
+<font color=CC6600 size=2>International Conference on Learning Representations (ICLR), 2026. </font><br/>
+<a href="https://openreview.net/forum?id=3kvV1nfWVq"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/OPPO-PersonalAI/Adaptive_Agent_Foundation_Models"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+</div>
 </td>
+</tr>
+
+<tr>
+<td width="80%" valign="middle">
+<div>
+<font color=Black size=4 face="Georgia"><b>Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution</b></font><br/>
+<i>Tianrui Qin, Qianben Chen, Sinuo Wang, He Xing, King Zhu, He Zhu, <b>Dingfeng Shi</b>, Xinxin Liu, Ge Zhang, Jiaheng Liu, Xitong Gao, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
+<div>
+<b>
+<font color=CC6600 size=2>International Conference on Learning Representations (ICLR), 2026. </font><br/>
+<a href="https://openreview.net/forum?id=QuaJ6kJaBm"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/OPPO-PersonalAI/Flash-Searcher"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="80%" valign="middle">
+<div>
+<font color=Black size=4 face="Georgia"><b>ACADREASON: Exploring the Limits of Reasoning Models with Academic Research Problems</b></font><br/>
+<i>Xin Gui, King Zhu, JinCheng Ren, Qianben Chen, Zekun Moore Wang, Yizhi LI, Xinpeng Liu, REN WENLI, Linyu Miao, Tianrui Qin, Ziqi Shu, He Zhu, <b>Dingfeng Shi</b>, Jiaheng Liu, Yuchen Eleanor Jiang, Minghao Liu, Ge Zhang, Wangchunshu Zhou</i>
+<div>
+<b>
+<font color=CC6600 size=2>International Conference on Learning Representations (ICLR), 2026. </font><br/>
+<a href="https://openreview.net/forum?id=vl0hQuluv4"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/OPPO-PersonalAI/Acadreason-benchmark"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="80%" valign="middle">
+<div>
+<font color=Black size=4 face="Georgia"><b>Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL</b></font><br/>
+<i>Weizhen Li, Jianbo Lin, Zhuosong Jiang, Jingyi Cao, Xinpeng Liu, Jiayu Zhang, Huang Zhenqiang, Qianben Chen, Weichen Sun, Qiexiang Wang, Hongxuan Lu, Tianrui Qin, ChenghaoZhu, Yi Yao, Shuying Fan, LiXiaowan, Tiannan Wang, Pai Liu, King Zhu, He Zhu, <b>Dingfeng Shi</b>, WANG PIAOHONG, Yeyi Guan, Xiangru Tang, Minghao Liu, Yuchen Eleanor Jiang, Jian Yang, Jiaheng Liu, Ge Zhang, Wangchunshu Zhou</i>
+<div>
+<b>
+<font color=CC6600 size=2>Arxiv, 2025. </font><br/>
+<a href="https://arxiv.org/abs/2508.13167"><font color=blue size=2>[PDF]</font></a>
+<a href="https://github.com/OPPO-PersonalAI/Agent_Foundation_Models"><font color=blue size=2>[CODE]</font></a>
+</b>
+</div>
+</div>
+</td>
+</tr>
+
+<tr>
 <td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>Temporal Action Localization with Enhanced Instant Discriminability</b></font><br/>
@@ -69,11 +127,7 @@ My research focuses on large language models (LLMs), computer vision and video u
 </tr>
 
 <tr>
-<td width="20%" valign="baseline">
-<img src="files/Tridet.png">
-</td>
 <td width="80%" valign="middle">
-<div>
 <font color=Black size=4 face="Georgia"><b>TriDet: Temporal Action Detection with Relative Boundary Modeling</b></font><br/>
 <i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao, Lin Ma, Jia Li, Dacheng Tao</i>
 <div>
@@ -83,14 +137,10 @@ My research focuses on large language models (LLMs), computer vision and video u
 <a href="https://github.com/dingfengshi/TriDet"><font color=blue size=2>[CODE]</font></a>
 </b>
 </div>
-</div>
 </td>
 </tr>
 
 <tr>
-<td width="20%" valign="baseline">
-<img src="files/pbe.png">
-</td>
 <td width="80%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Benefits of Permutation-equivariance in Auction Mechanisms</b></font><br/>
 <i>Tian Qin, Fengxiang He, <b>Dingfeng Shi</b>, Wenbing Huang, Dacheng Tao</i>
@@ -105,9 +155,6 @@ My research focuses on large language models (LLMs), computer vision and video u
 </tr>
 
 <tr>
-<td width="20%" valign="baseline">
-<img src="files/ReAct.png">
-</td>
 <td width="80%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>ReAct: Temporal Action Detection with Relational Action Queries</b></font><br/>
 <i><b>Dingfeng Shi</b>, Yujie Zhong, Qiong Cao, Jing Zhang, Lin Ma, Jia Li and Dacheng Tao</i>
@@ -122,9 +169,6 @@ My research focuses on large language models (LLMs), computer vision and video u
 </tr>
 
 <tr>
-<td width="20%" valign="baseline">
-<img src="files/recon.png">
-</td>
 <td width="80%" valign="middle">
 <font color=Black size=4 face="Georgia"><b>Reconstructing Part-level 3D Models from a Single Image</b></font><br>
 <i><b>Dingfeng Shi</b>, Yifan Zhao, Jia Li</i>
@@ -138,7 +182,7 @@ My research focuses on large language models (LLMs), computer vision and video u
 </tr>
 </tbody>
 </table>
-</div>
+</td>
 
 # Academic Services
 I serve as a reviewer for journals such as TPAMI, TIP, TMM, TCSVT and PR, as well as conferences like CVPR, ICCV, ECCV, NeurIPS, and AAAI.
