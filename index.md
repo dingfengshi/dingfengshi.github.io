@@ -35,7 +35,7 @@ My research focuses on large language models (LLMs), computer vision and video u
 <td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>TaskCraft: Automated Generation of Agentic Tasks</b></font><br/>
-<i><b>Dingfeng Shi*</b>, Jingyi Cao*, Qianben Chen*, Weichen Sun, Weizhen Li, Hongxuan Lu, Fangchen Dong, Tianrui Qin, King Zhu, Minghao Yang, Jian Yang, Ge Zhang, Jiaheng Liu, Changwang Zhang, Jun Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
+<i><b>Dingfeng Shi*</b>, Jingyi Cao*, Qianben Chen*, Weichen Sun, Weizhen Li, Hongxuan Lu, Fangchen Dong, Tianrui Qin, King Zhu, Minghao Liu, Jian Yang, Ge Zhang, Jiaheng Liu, Changwang Zhang, Jun Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou</i>
 <div>
 <b>
 <font color=CC6600 size=2>International Conference on Learning Representations (ICLR), 2026. </font><br/>
@@ -83,7 +83,7 @@ My research focuses on large language models (LLMs), computer vision and video u
 <td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>ACADREASON: Exploring the Limits of Reasoning Models with Academic Research Problems</b></font><br/>
-<i>Xin Gui, King Zhu, JinCheng Ren, Qianben Chen, Zekun Moore Wang, Yizhi LI, Xinpeng Liu, REN WENLI, Linyu Miao, Tianrui Qin, Ziqi Shu, He Zhu, <b>Dingfeng Shi</b>, Jiaheng Liu, Yuchen Eleanor Jiang, Minghao Liu, Ge Zhang, Wangchunshu Zhou</i>
+<i>Xin Gui, King Zhu, JinCheng Ren, Qianben Chen, Zekun Moore Wang, Yizhi LI, Xinpeng Liu, Wenli Ren, Linyu Miao, Tianrui Qin, Ziqi Shu, He Zhu, <b>Dingfeng Shi</b>, Jiaheng Liu, Yuchen Eleanor Jiang, Minghao Liu, Ge Zhang, Wangchunshu Zhou</i>
 <div>
 <b>
 <font color=CC6600 size=2>International Conference on Learning Representations (ICLR), 2026. </font><br/>
@@ -99,7 +99,7 @@ My research focuses on large language models (LLMs), computer vision and video u
 <td width="80%" valign="middle">
 <div>
 <font color=Black size=4 face="Georgia"><b>Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL</b></font><br/>
-<i>Weizhen Li, Jianbo Lin, Zhuosong Jiang, Jingyi Cao, Xinpeng Liu, Jiayu Zhang, Huang Zhenqiang, Qianben Chen, Weichen Sun, Qiexiang Wang, Hongxuan Lu, Tianrui Qin, ChenghaoZhu, Yi Yao, Shuying Fan, LiXiaowan, Tiannan Wang, Pai Liu, King Zhu, He Zhu, <b>Dingfeng Shi</b>, WANG PIAOHONG, Yeyi Guan, Xiangru Tang, Minghao Liu, Yuchen Eleanor Jiang, Jian Yang, Jiaheng Liu, Ge Zhang, Wangchunshu Zhou</i>
+<i>Weizhen Li, Jianbo Lin, Zhuosong Jiang, Jingyi Cao, Xinpeng Liu, Jiayu Zhang, Huang Zhenqiang, Qianben Chen, Weichen Sun, Qiexiang Wang, Hongxuan Lu, Tianrui Qin, ChenghaoZhu, Yi Yao, Shuying Fan, LiXiaowan, Tiannan Wang, Pai Liu, King Zhu, He Zhu, <b>Dingfeng Shi</b>, Piaohong Wang, Yeyi Guan, Xiangru Tang, Minghao Liu, Yuchen Eleanor Jiang, Jian Yang, Jiaheng Liu, Ge Zhang, Wangchunshu Zhou</i>
 <div>
 <b>
 <font color=CC6600 size=2>Arxiv, 2025. </font><br/>
