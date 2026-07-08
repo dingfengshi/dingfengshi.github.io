@@ -19,6 +19,7 @@ My research focuses on large language models (LLMs), computer vision and video u
 </div>
 
 # News
+- [2026.05.03] **One** paper is accepted at **ICML 2026**
 - [2026.01.27] **Four** paper is accepted at **ICLR 2026**
 - [2023.02.27] **One** paper is accepted at **CVPR 2023**
 - [2022.09.15] **One** paper is accepted at **NeurIPS 2022**
@@ -30,6 +31,22 @@ My research focuses on large language models (LLMs), computer vision and video u
 <td>
 <table width="100%" align="center" border="1" cellspacing="0" cellpadding="12" style="border-color: transparent;">
 <tbody>
+
+
+<tr>
+<td width="80%" valign="middle">
+<div>
+<font color=Black size=4 face="Georgia"><b>EVOLVING ROLLOUTS: Harnessing Historical Experience for Web Agent Evolution in Reinforcement Learning</b></font><br/>
+<i>Sinuo Wang, Piaohong Wang, Tianrui Qin, Maojia Song, Qianben Chen, Qiexiang Wang, Gengze Zhou, Zeyu Zhang, He Zhu, <b>Dingfeng Shi</b>, Yutong Xie, Minghao Liu, Jiaheng Liu, Ge Zhang, Jiawei Ma, Yuchen Eleanor Jiang, Qi Wu, Wangchunshu Zhou</i>
+<div>
+<b>
+<font color=CC6600 size=2>International Conference on Machine Learning (ICML), 2026. </font><br/>
+<a href="https://openreview.net/pdf?id=p5B4ABjuT2"><font color=blue size=2>[PDF]</font></a>
+</b>
+</div>
+</div>
+</td>
+</tr>
 
 <tr>
 <td width="80%" valign="middle">
